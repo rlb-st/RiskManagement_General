@@ -12,4 +12,4 @@
 |Matlab R Reference Guide|<https://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf>|
 |RMarkdown: The definitive guide|<https://www.rmetrics.org/>|
 |Advanced R|<https://adv-r.hadley.nz/>|
-|DiscDown - Data Analytics|<https://eeecon.uibk.ac.at/~discdown/index.php>|
+|DiscDown - Data Analytics Uni Innsbruck|<https://eeecon.uibk.ac.at/~discdown/index.php>|
