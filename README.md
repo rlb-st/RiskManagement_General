@@ -1,5 +1,5 @@
 
-## Introduction Riskmanagement    
+## Ressourcen R Programmierung
 
 Einige wichtige Links im Zusammenhang mit R Programmierung können in der folgenden Tabelle entnommen werden.
 
