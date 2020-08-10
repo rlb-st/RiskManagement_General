@@ -17,4 +17,4 @@ Einige wichtige Links im Zusammenhang mit R Programmierung können in der folgen
 |DiscDown - Data Analytics||<https://eeecon.uibk.ac.at/~discdown/index.php>|
 
 
-Weiters kann man im Wiki des [Risk Management Ordners] anwendungsorientierte Beispiele des Risikomanagements finden.
+Weiters kann man im Wiki des [Risk Management Ordners](https://github.com/rlb-st/RiskManagement/wiki) anwendungsorientierte Beispiele des Risikomanagements finden.
