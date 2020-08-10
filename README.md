@@ -1,7 +1,7 @@
 
 ## Introduction Riskmanagement    
 
-Einige wichtige Links im Zusammenhang mit R Programmierung können in der folgenden Tabelle entnommen werden. Zusätzlich gibt es noch einige PDF Dokumente im Ordner [Data Science](https://github.com/rlb-st/RiskManagement_General/tree/master/Data%20Science) welche ebenfalls
+Einige wichtige Links im Zusammenhang mit R Programmierung können in der folgenden Tabelle entnommen werden.
 
 |Thema|Art Dokument|Link|
 |----------------------|-------|------|
